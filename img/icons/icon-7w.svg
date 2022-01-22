@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="513px" height="512px" viewBox="0 0 513 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" stroke="#FCFCFE" stroke-width="29" cx="256.5" cy="256" rx="242" ry="241.5"></ellipse>
+        <path d="M256.5,129.080337 L217.246065,209.572897 L129.047273,222.542878 L192.882205,285.51399 L177.857522,374.166873 L256.5,332.325441 L335.142478,374.166873 L320.117795,285.51399 L383.952727,222.542878 L295.753935,209.572897 L256.5,129.080337 Z" id="Star" stroke="#FCFCFE" stroke-width="29"></path>
+    </g>
+</svg>

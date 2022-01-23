@@ -60,7 +60,7 @@ $(function() {
       }, 600, function() {
         setTimeout(function() {
           $('.trm-mode-swich-animation').addClass('trm-active');
-          $("#trm-switch-style").attr("href", "css/style-dark.css");
+          $("#trm-switch-style").attr("href", "css/style-dark.min.css");
         }, 200);
         setTimeout(function() {
           $('.trm-mode-swich-animation-frame').removeClass('trm-active');
@@ -234,7 +234,7 @@ $(function() {
         }, 600, function() {
           setTimeout(function() {
             $('.trm-mode-swich-animation').addClass('trm-active');
-            $("#trm-switch-style").attr("href", "css/style-dark.css");
+            $("#trm-switch-style").attr("href", "css/style-dark.min.css");
           }, 200);
           setTimeout(function() {
             $('.trm-mode-swich-animation-frame').removeClass('trm-active');

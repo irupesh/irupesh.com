@@ -377,8 +377,7 @@ top bar
     .trm-top-bar .container .trm-left-side {
       height: 100%;
       display: flex;
-      align-items: center;
-      width: 30%; }
+      align-items: center; }
       .trm-top-bar .container .trm-left-side .trm-logo-frame {
         display: flex;
         align-items: center;

@@ -2130,4 +2130,11 @@ locomotive scroll
   background-color: #fe5a1d;
   opacity: 1; }
 
+.bg{
+  z-index: -1;
+  background-color: #00283A;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15);
+}
+
 /*# sourceMappingURL=style-dark.css.map */

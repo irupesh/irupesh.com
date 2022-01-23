@@ -77,7 +77,7 @@ $(function() {
       }, 600, function() {
         setTimeout(function() {
           $('.trm-mode-swich-animation').removeClass('trm-active');
-          $("#trm-switch-style").attr("href", "css/style-light.css");
+          $("#trm-switch-style").attr("href", "css/style-light.min.css");
         }, 200);
         setTimeout(function() {
           $('.trm-mode-swich-animation-frame').removeClass('trm-active');
@@ -251,7 +251,7 @@ $(function() {
         }, 600, function() {
           setTimeout(function() {
             $('.trm-mode-swich-animation').removeClass('trm-active');
-            $("#trm-switch-style").attr("href", "css/style-light.css");
+            $("#trm-switch-style").attr("href", "css/style-light.min.css");
           }, 200);
           setTimeout(function() {
             $('.trm-mode-swich-animation-frame').removeClass('trm-active');
